@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: The 12 Noobian Nights of Christmans
+title: The 12 Noobian Nights of Christmas
 subtitle: My journey into the land of SANS.
 date: 2020-01-13 10:14:43 -0800
 main_image: /assets/images/kringlecon.jpg
