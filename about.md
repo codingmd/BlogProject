@@ -1,4 +1,9 @@
-# Workshop Project
+---
+layout: about
+title: About Project
+main_image: /assets/images/actionshot.jpg
+permalink: /about/
+---
 
 <h2>About This Blog...</h2>
 
@@ -10,3 +15,5 @@
 
 <h2>About The Result...</h2>
 <p>In just a couple hours I upgraded my skills and triggered a chain reaction that brought you here today, and me a step closer to becoming a cybersecurity professional. Check out the original website and blog project I created during the workshop <a href="https://codingmd.github.io/github-pages-workshop/" target="blank">project page</a>.</p>   
+
+
